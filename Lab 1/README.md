@@ -1,44 +1,9 @@
 
 
+
 # Staging Interaction
 
-In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
-
-There is no actor that plays Tinkerbell--her existence in the play comes from the interactions that the other characters have with her.
-
-For lab this week, we draw on this and other inspirations from theatre to stage interactions with a device where the main mode of display/output for the interactive device you are designing is lighting. You will plot the interaction with a storyboard, and use your computer and a smartphone to experiment with what the interactions will look and feel like. 
-
-_Make sure you read all the instructions and understand the whole of the laboratory activity before starting!_
-
-
-
-## Prep
-
-### To start the semester, you will need:
-1. Set up your own Github "Lab Hub" repository to keep all you work in record by [following these instructions](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/readings/Submitting%20Labs.md).
-2. Set up the README.md for your Hub repository (for instance, so that it has your name and points to your own Lab 1) and [learn how to](https://guides.github.com/features/mastering-markdown/) organize and post links to your submissions on your README.md so we can find them easily.
-3. (extra: Learn about what exactly Git is from [here](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F).)
-
-### For this lab, you will need:
-1. Paper
-2. Markers/ Pens
-3. Scissors
-4. Smart Phone -- The main required feature is that the phone needs to have a browser and display a webpage.
-5. Computer -- We will use your computer to host a webpage which also features controls.
-6. Found objects and materials -- You will have to costume your phone so that it looks like some other devices. These materials can include doll clothes, a paper lantern, a bottle, human clothes, a pillow case, etc. Be creative!
-
-### Deliverables for this lab are: 
-1. Storyboard
-1. Sketches/photos of costumed device
-1. Any reflections you have on the process
-1. Video sketch of the prototyped interaction
-1. Submit the items above in the lab1 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same from each person in the group.
-
-### The Report
-This README.md page in your own repository should be edited to include the work you have done (the deliverables mentioned above). Following the format below, you can delete everything but the headers and the sections between the **stars**. Write the answers to the questions under the starred sentences. Include any material that explains what you did in this lab hub folder, and link it in your README.md for the lab.
-
 ## Lab Overview
-For this assignment, you are going to:
 
 A) [Plan](#part-a-plan) 
 
@@ -52,74 +17,59 @@ E) [Costume the device](#part-e-costume-the-device)
 
 F) [Record the interaction](#part-f-record)
 
-Labs are due on Mondays. Make sure this page is linked to on your main class hub page.
 
 ## Part A. Plan 
 
-To stage the interaction with your interactive device, think about:
+Esther and Soul are rommates, and Esther has a dog named Mika. Since Esther is busy throughout the day, she sometimes forgets to fill food or water for Mika. Mika has to wait for a long time until Esther realizes that, especially when Esther is not home. She sometimes asks Soul to check Mika’s bowls and add food/water if needed, but Soul also forgets to do so sometimes and Esther would feel bad for having to ask Soul explicitly all the time and would not do so.
 
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
+With this device named Doggolight placed in the living space, Esther can easily notice whether food or water needs to be refilled without having to bend down and check Mika’s bowls regularly. This lighting device is activated by the weights of the connected bowls. When it drops below 50g, it will notify the humans by emitting bright-colored lights: Blue for water refill only, orange for food refill only, and red for both.
 
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
+The light will automatically turn off when the bowls are filled, which saves Esther and Soul time and effort. They don’t need to manually check if the bowls are empty anymore. Instead, they can tell through the light if any bowl needs to be refilled. The light will be noticeable enough given the brightness and the special color choices that will hardly be used in daily lives.
 
-_Activity:_ What is happening between the actors?
+The interaction will happen in the dog owner’s(Esther’s) living space, where the dog(Mika) normally eats and drinks. It will be in the middle of the day when the dog owner’s usually caught up with some busy work or has to be away from home. Primarily, the dog owner and the dog are the main players in this interaction. However, anyone who’s sharing the space with the owner(roommate, visitor, colleague) can be involved. In our scenario, the dog owner is forgetting to refill the dog’s food/water/both. The dog keeps going to her bowls to see if there is water/food. The owner makes the dog more upset by walking past the bowls without noticing them being empty. But now with Doggolight, the owner can easily tell if either bowl is empty so that the dog doesn't have to wait for a long time. Her goals are to walk past the bowls, and then notice the light, and then go do the refilling. She immediately refills the bowls. Doggo happy. She’s happy. The light will be turned off automatically after the refill.
 
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
+**Storyboard** 
 
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
+![Image of Storyboard](https://github.com/XinningF/Interactive-Lab-Hub/blob/Fall2021/Lab%201/Story%20Board.png?raw=true)
 
-\*\***Describe your setting, players, activity and goals here.**\*\*
 
-Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
+**Feedback**
 
-\*\***Include a picture of your storyboard here**\*\*
-
-Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
-
-\*\***Summarize feedback you got here.**\*\*
-
+ - "Having a non-verbal nudge to remind the dog owner to feed and take care of the dog sounds helpful. The location of the light in the room might be important so it cannot be missed by the humans but also not disturbing the space too much. You could add a beeping sound when the bowl was not filled after n-minutes of blinking." -- Michelle Wang
+ - "For different dog sizes, it will be great to set the lower bound for the weight of each bowl as dogs with different sizes eat/drink different amounts of food/water. " -- Scarlett Zhang
 
 ## Part B. Act out the Interaction
 
-Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
-\*\***Are there things that seemed better on paper than acted out?**\*\*
+As in one of the feedbacks, where the device is located is really important. We tried with many different places but were worried that it would not be that noticeable. We first tried to stick the device on the wall where the bowls are located, but it could also be ignored when we acted it out. So we chose to put it on a higher side table next to the bowls.
 
-\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+  
+
+Also, we planned to use the smart lamp at the beginning, but the lamp was hard to costume while we had a better idea of how the device would look like. So eventually we decided to use the phone that can be costumed to how we think the device should look like.
+
+  
+
+We initially planned for two scenarios, one for food only and one for water only. I chose to act out the interaction when I woke up in the morning as food would be usually eaten up by every morning, and I realized that water was out as well. Under such circumstances, a decision needed to be made regarding which color to show first if both are out, and a sequence needed to be performed as well if I add food/water one after the other. To simplify everything, we decided to add another color to the device, which is red when both need to be refilled.
 
 
 ## Part C. Prototype the device
 
-You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
 
-Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
-
-We invented this tool for this lab! 
-
-If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
-
-\*\***Give us feedback on Tinkerbelle.**\*\*
+Unfortunately, we were unable to make Tinkerbelle on our phones. We got the python file to run successfully on our laptop with the port number, but we could never get connected to the port on our phones following the instructions. Therefore to save time, we decided to use another way to show different colors.
 
 
 ## Part D. Wizard the device
-Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
+The biggest part of the setup is to prepare for the three scenarios. Therefore we need to empty out the bowl(s) that need to be empty during each scenario before starting to take each piece of the video.
 
-\*\***Include your first attempts at recording the set-up video here.**\*\*
-
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
-
-\*\***Show the follow-up work here.**\*\*
+Also, we also need to make Mika (the dog) sniff around the empty bowl so that we can start with this piece indicating that the device would really help with reminding people of adding food/water.
 
 
 ## Part E. Costume the device
 
-Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
+Below is the sketch of what Doggolight might look like:
+![Image of Costume Sketch](https://github.com/XinningF/Interactive-Lab-Hub/blob/Fall2021/Lab%201/Device%20Costume.png?raw=true)
 
-Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
-
-\*\***Include sketches of what your device might look like here.**\*\*
-
-\*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+We intended the device to have a look that could intuitively imply it has something to do with the pet. So even the first-time users can go check the dog when they notice the lighting. We went with the rounded bone shape which is simple yet has enough space in the middle for a lighting panel, and a good weight-balance. This cute shape could also arouse some sympathy to go take care of the dog as soon as possible. 
 
 
 ## Part F. Record
