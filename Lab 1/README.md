@@ -18,7 +18,7 @@ E) [Costume the device](#part-e-costume-the-device)
 F) [Record the interaction](#part-f-record)
 
 
-## Part A. Plan 
+## #Part A. Plan 
 
 Esther and Soul are rommates, and Esther has a dog named Mika. Since Esther is busy throughout the day, she sometimes forgets to fill food or water for Mika. Mika has to wait for a long time until Esther realizes that, especially when Esther is not home. She sometimes asks Soul to check Mika’s bowls and add food/water if needed, but Soul also forgets to do so sometimes and Esther would feel bad for having to ask Soul explicitly all the time and would not do so.
 
@@ -38,7 +38,7 @@ The interaction will happen in the dog owner’s(Esther’s) living space, where
  - "Having a non-verbal nudge to remind the dog owner to feed and take care of the dog sounds helpful. The location of the light in the room might be important so it cannot be missed by the humans but also not disturbing the space too much. You could add a beeping sound when the bowl was not filled after n-minutes of blinking." -- Michelle Wang
  - "For different dog sizes, it will be great to set the lower bound for the weight of each bowl as dogs with different sizes eat/drink different amounts of food/water. " -- Scarlett Zhang
 
-## Part B. Act out the Interaction
+## #Part B. Act out the Interaction
 
 
 As in one of the feedbacks, where the device is located is really important. We tried with many different places but were worried that it would not be that noticeable. We first tried to stick the device on the wall where the bowls are located, but it could also be ignored when we acted it out. So we chose to put it on a higher side table next to the bowls.
@@ -52,34 +52,34 @@ Also, we planned to use the smart lamp at the beginning, but the lamp was hard t
 We initially planned for two scenarios, one for food only and one for water only. I chose to act out the interaction when I woke up in the morning as food would be usually eaten up by every morning, and I realized that water was out as well. Under such circumstances, a decision needed to be made regarding which color to show first if both are out, and a sequence needed to be performed as well if I add food/water one after the other. To simplify everything, we decided to add another color to the device, which is red when both need to be refilled.
 
 
-## Part C. Prototype the device
+## #Part C. Prototype the device
 
 
 Unfortunately, we were unable to make Tinkerbelle on our phones. We got the python file to run successfully on our laptop with the port number, but we could never get connected to the port on our phones following the instructions. Therefore to save time, we decided to use another way to show different colors.
 
 
-## Part D. Wizard the device
+## #Part D. Wizard the device
 The biggest part of the setup is to prepare for the three scenarios. Therefore we need to empty out the bowl(s) that need to be empty during each scenario before starting to take each piece of the video.
 
 Also, we also need to make Mika (the dog) sniff around the empty bowl so that we can start with this piece indicating that the device would really help with reminding people of adding food/water.
 
 
-## Part E. Costume the device
+## #Part E. Costume the device
 
 Below is the sketch of what Doggolight might look like:
 ![Image of Costume Sketch](https://github.com/XinningF/Interactive-Lab-Hub/blob/Fall2021/Lab%201/Device%20Costume.png?raw=true)
 
-We intended the device to have a look that could intuitively imply it has something to do with the pet. So even the first-time users can go check the dog when they notice the lighting. We went with the rounded bone shape which is simple yet has enough space in the middle for a lighting panel, and a good weight-balance. This cute shape could also arouse some sympathy to go take care of the dog as soon as possible. 
+We intended the device to have a look that could intuitively imply it has something to do with the pet. So even the first-time users can go check the dog when they notice the lighting. We went with the rounded bone shape which is simple yet has enough space in the middle for a lighting panel, and a good weight-balance. This cute shape could also arouse some sympathy to go take care of the dog as soon as possible. So we took a cardboard and cut in into the shape of a bone, then cut a rectangle out of the cardboard that has the same size as the phone:
+
+![Image of costume 1](https://github.com/XinningF/Interactive-Lab-Hub/blob/Fall2021/Lab%201/Costume%201.png)
+![Image of costume 2](https://github.com/XinningF/Interactive-Lab-Hub/blob/Fall2021/Lab%201/Costume%202.JPG)
 
 
-## Part F. Record
+## #Part F. Record
 
-\*\***Take a video of your prototyped interaction.**\*\*
+[Link to the video](https://drive.google.com/file/d/1hVqco_DP4JWhl13JiXmMFei8hyX8SEkT/view?usp=sharing)
 
-\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
-
+Collaborated with Soul Choi.
 
 # Staging Interaction, Part 2 
 
