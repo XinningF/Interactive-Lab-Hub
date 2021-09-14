@@ -121,4 +121,9 @@ With the above improvements, we came up with the updated storyboard:
 
 [Link to the part 2 video](https://drive.google.com/file/d/1gWxkqxKGhHm_DhX-s7iESYY7CTBW16Ts/view?usp=sharing)
 
-We kept using the costume we had for part 1, as we are improving on the design of the same device. One of the big changes to the video-taking process is that since we are enabling multiple places to put the device, and since we chose noticeable locations that were not close to the pet bowls, we had to take separate videos for the three locations and for the food/water addition. We also made some changes to the layout of the video. We showed the status of the bowls (food only, water only, both empty) before each scenario, and with the help of the sound notification, we used fewer subtitles that could be disturbing.
+While we kept the same costume for the device we had for part 1, we added new features to the original design of the device. We staged the new interaction with the added sound notification, and with multiple locations of the device.
+
+These updates in the design also affected our way of video-taking. We had to record nine separate videos for the three locations and for each color of the light. 
+
+We also made some changes to the layout of the video. We showed the status of the bowls (food empty, water empty, both empty) before each scenario, and with the help of the sound notification, we used fewer subtitles that could be disturbing. Moreover, we added some explanation at the end of the video to show that we have the feeding interval feature and the Do-not-disturb mode.
+
