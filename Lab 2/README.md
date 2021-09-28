@@ -212,7 +212,8 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 # Lab 2 Part 2
 
-Pull Interactive Lab Hub updates to your repo.
+Pull Interactive Lab Hub updates to your repo. 
+[Link to Part 2](https://github.com/AdamYuzhenZhang/Interactive-Lab-Hub/tree/Fall2021/Lab%202#lab-2-part-2)
 
 Modify the code from last week's lab to make a new visual interface for your new clock. You may [extend the Pi](Extending%20the%20Pi.md) by adding sensors or buttons, but this is not required.
 
