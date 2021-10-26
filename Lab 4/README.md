@@ -1,6 +1,8 @@
 # Ph-UI!!!
 
-For lab this week, we focus on both on sensing, to bring in new modes of input into your devices, as well as prototyping the physical look and feel of the device. You will think about the physical form the device needs to perform the sensing as well as present the display or feedback about what was sensed. 
+For lab this week, we focus on both on sensing, to bring in new modes of input into your devices, as well as prototyping the physical look and feel of the device. You will think about the physical form the device needs to perform the sensing as well as present the display or feedback about what was sensed.
+
+This Lab was completed together with Ken He(lh553) and Yuzhen Zhang(yz869). We worked collaboratively on Yuzhen's repository.
 
 ## Part 1 Lab Preparation
 
@@ -179,6 +181,8 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
+[Link to Part C](https://github.com/AdamYuzhenZhang/Interactive-Lab-Hub/tree/Fall2021/Lab%204#part-c)
+
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -230,6 +234,8 @@ Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
 
+[Link to Part D](https://github.com/AdamYuzhenZhang/Interactive-Lab-Hub/tree/Fall2021/Lab%204#part-d)
+
 
 LAB PART 2
 
@@ -274,3 +280,5 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
 
+
+[Link to Part F](https://github.com/AdamYuzhenZhang/Interactive-Lab-Hub/tree/Fall2021/Lab%204#part-f)
